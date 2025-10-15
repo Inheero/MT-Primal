@@ -1,0 +1,17 @@
+#Креативная вкладка
+itemGroup.mt_primal_tab=Примитивное развитие
+
+#Сообщения
+message.infinityitems.break_wood_hand=Ты не можешь ломать дерево рукой!
+
+#Инструменты
+item.primitive_pickaxe.name=Примитивная кирка
+item.primitive_sword.name=Примитивный меч
+item.primitive_axe.name=Примитивный топор
+item.primitive_shovel.name=Примитивная лопата
+item.primitive_hoe.name=Примитивная мотыга
+
+#Предметы
+item.plant_fiber.name=Растительное волокно
+item.plant_twine.name=Растительный шпагат
+item.iron_chunk.name=Кусочек железа

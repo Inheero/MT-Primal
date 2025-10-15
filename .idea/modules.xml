@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MT_Primal_Stage.iml" filepath="$PROJECT_DIR$/.idea/modules/MT_Primal_Stage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MT_Primal_Stage.api.iml" filepath="$PROJECT_DIR$/.idea/modules/MT_Primal_Stage.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MT_Primal_Stage.main.iml" filepath="$PROJECT_DIR$/.idea/modules/MT_Primal_Stage.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MT_Primal_Stage.test.iml" filepath="$PROJECT_DIR$/.idea/modules/MT_Primal_Stage.test.iml" />
+    </modules>
+  </component>
+</project>

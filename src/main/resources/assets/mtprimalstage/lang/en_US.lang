@@ -1,0 +1,17 @@
+#Креативная вкладка
+itemGroup.mt_primal_tab=Primitive development
+
+#Сообщения
+message.infinityitems.break_wood_hand=You need an axe to chop wood!
+
+#Инструменты
+item.primitive_pickaxe.name=Primitive Pickaxe
+item.primitive_sword.name=Primitive Sword
+item.primitive_axe.name=Primitive Axe
+item.primitive_shovel.name=Primitive Shovel
+item.primitive_hoe.name=Primitive Hoe
+
+#Предметы
+item.plant_fiber.name=Plant Fiber
+item.plant_twine.name=Plant Twine
+item.iron_chunk.name=Iron Chunk
