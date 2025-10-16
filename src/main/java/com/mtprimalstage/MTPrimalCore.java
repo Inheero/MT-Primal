@@ -45,5 +45,6 @@ public class MTPrimalCore {
 
     @Mod.EventHandler
     public void postInit(FMLPostInitializationEvent event) {
+        Blocks.end_portal_frame.setHardness(50F).setResistance(2000F);
     }
 }
